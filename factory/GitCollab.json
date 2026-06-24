@@ -1,0 +1,15 @@
+{
+	"name": "GitCollab",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4035b03-619e-491d-8794-99d4e11ba780",
+		"tenantId": "5af3aef4-d510-409d-8b2b-3ada39dcc5fa"
+	}
+}
